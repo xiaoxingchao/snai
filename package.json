@@ -1,0 +1,17 @@
+{
+  "name": "snai",
+  "version": "1.0.0",
+  "description": "脚手架",
+  "bin": {
+    "snai": "cli.js"
+  },
+  "keywords": [
+    "snai"
+  ],
+  "author": "live",
+  "license": "MIT",
+  "dependencies": {
+    "umi": "^2.13.6",
+    "umi-plugin-react": "^1.15.3"
+  }
+}
